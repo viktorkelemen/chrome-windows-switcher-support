@@ -1,5 +1,5 @@
 ---
-title: Chrome Windows Switcher
+title: Find your Chrome window
 description: A fast, private window switcher for Google Chrome on Mac.
 ---
 

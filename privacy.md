@@ -1,9 +1,9 @@
 ---
-title: Chrome Windows Switcher Privacy Policy
+title: Privacy
 permalink: /privacy/
 ---
 
-# Chrome Windows Switcher Privacy Policy
+# Privacy
 
 Effective September 12, 2026.
 
